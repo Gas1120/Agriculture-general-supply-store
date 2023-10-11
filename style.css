@@ -1,0 +1,110 @@
+.grow{
+    background-color: green;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+.gas{
+    font-size: 20px;
+}
+
+.nav_menu li {
+    min-width: 8em; 
+    float: left;
+    margin-right: 0.5em;
+    margin-left:10px ;
+    text-align: center;
+ }
+
+ .nav_menu{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    background-image: url(./Himages/LOGO2.jpeg);
+
+}
+
+.nav_menu li a:link,
+.nav_menu li a:visited {
+    background-color: rgb(220, 225, 236);
+    display: block;
+    padding: 0.2;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 0 0 0.2em 0;
+    -webkit-border-radius:3px ;
+    -moz-border-radius: 3px ;
+    border-radius: 3px;
+    
+}
+
+.nav_menu li a:hover{
+    background-color: rgb(15, 31, 11);
+    -webkit-transform: scale(2,2);
+    -ms-transform: scale(2,2);
+    transform: scale(2,2);
+}
+
+.nav_menu a {
+    display: rgb(126, 48, 48);
+    width: 80px;
+}
+
+.me{
+    background-color: green;
+    margin-bottom: 5px;
+    padding-bottom: 5px;
+    padding-top: 50px;
+    text-align: center;   
+}
+
+#title{
+    background-color: rgb(35, 179, 16);
+    float: center;
+    width: 45%;
+    text-align: center;
+    font-size: large;
+
+}
+
+#containme{
+    background-color:  rgb(27, 151, 252);
+    width: 55%;
+    height: 350px;
+    padding: 20px;
+    margin: 20px;
+    color:white;
+    float: center;
+}
+#containme img{
+    max-height: 150px;
+    max-width: 150px;
+    float: right;
+}
+
+
+footer{
+    height: 30px;
+    background-color: rgb(92, 76, 53);
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+}
+
+.sugar{
+    font-size: 20px;
+}
+
+.Ganta{
+    font-size: 20px;
+}
+
+.Cucumber{
+    font-size: 20px;
+}
+
+.Carrot{
+    font-size: 20px;
+}
